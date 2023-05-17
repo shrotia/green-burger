@@ -12,7 +12,7 @@
   "timestamp": 1684333425692,
   "entries": [
     {
-      "path": "/screens/restaurants/breakfast",
+      "path": "/screens/morningbreakfast",
       "timestamp": 1684332885000
     },
     {
@@ -94,10 +94,6 @@
     {
       "path": "/media_14f51fa7d2525fb3d55f3f6dc856c0a66a66da3f6.png?width=750&format=png&optimize=medium",
       "hash": "14f51fa7d2525fb3d55f3f6dc856c0a66a66da3f6"
-    },
-    {
-      "path": "/screens/restaurants/values.json",
-      "timestamp": 1684333305000
     },
     {
       "path": "/scripts/delayed.js",
