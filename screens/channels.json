@@ -1,0 +1,14 @@
+{
+  "channels": [
+    {
+      "manifestPath": "/screens/restaurants/breakfast.manifest.json",
+      "lastModified": "2023-05-17T14:21:45.000Z",
+      "externalId": "/screens/restaurants/breakfast",
+      "title": "Grand Burger Breakfast",
+      "liveUrl": "https://main--menus--shrotia.hlx.live/screens/restaurants/breakfast"
+    }
+  ],
+  "metadata": {
+    "providerType": "franklin"
+  }
+}
